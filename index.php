@@ -4,6 +4,6 @@
 	<title>workshop2</title>
 </head>
 <body>
-<p>revised</p>
+<p>revised for submission</p>
 </body>
 </html>
